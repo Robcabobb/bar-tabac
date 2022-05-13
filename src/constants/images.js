@@ -20,6 +20,7 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
+import owner from "../assets/owner.jpg"
 
 export default {
   bg,
@@ -35,6 +36,7 @@ export default {
   overlaybg,
   spoon,
   welcome,
+  owner,
   findus,
   laurels,
   award01,

@@ -24,9 +24,9 @@ const Header = () => (
 			</button>
 		</div>
 
-  <div className=""></div>
-
-		<div className="app__wrapper_img"></div>
+		<div className="app__wrapper_img">
+			<img src={images.welcome} alt="header_img" />
+		</div>
 	</div>
 );
 

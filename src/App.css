@@ -99,6 +99,9 @@
 
 .spoon__img {
   width: 45px;
+  
+  color: var(--color-golden);
+  transform: rotate(90deg);
 }
 
 @media screen and (min-width: 2000px) {

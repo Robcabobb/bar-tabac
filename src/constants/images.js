@@ -17,6 +17,7 @@ import award01 from '../assets/award01.png';
 import award02 from '../assets/award02.png';
 import award03 from '../assets/award03.png';
 import award05 from '../assets/award05.png';
+import beer from '../assets/beer.png'
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
@@ -25,6 +26,7 @@ import owner from "../assets/owner.jpg"
 export default {
   bg,
   chef,
+  beer,
   G,
   gallery01,
   gallery02,

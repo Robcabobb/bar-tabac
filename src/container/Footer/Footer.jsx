@@ -27,11 +27,11 @@ const Footer = () => (
 				<p className="p__opensans">
 					&quot;Boire un verre et en boire un autre.&quot;
 				</p>
-				<img
+				{/* <img
 					src={images.spoon}
 					className="spoon__img"
 					style={{ marginTop: 15 }}
-				/>
+				/> */}
 				<div className="app__footer-links_icons">
 					<FiFacebook href="https://www.instagram.com/le_courtoisville/?igshid=YmMyMTA2M2Y="/>
 					
@@ -51,7 +51,7 @@ const Footer = () => (
 		</div>
 
 		<div className="footer__copyright">
-			<p className="p__opensans">2021 Le Courtoisville. All Rights reserved.</p>
+			<p className="p__opensans">2022 Le Courtoisville. All Rights reserved.</p>
 		</div>
 	</div>
 );
